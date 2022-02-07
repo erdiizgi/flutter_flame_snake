@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'cell.dart';
+import '../component/cell.dart';
 
 class SnakeBodyPart extends LinkedListEntry<SnakeBodyPart> {
 
